@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": "3",
+  "versionName": "1.0.1",
+  "versionCode": "1",
   "apkUrl": "https://github.com/developeritmmp/apk_release/tree/master/v1.0.1/mmp-mobile-1.0.1.apk",
   "forceUpdate": false,
-  "whatsNew": "Tes New Release application 456"
+  "whatsNew": "Release new apk MMP Mobile"
 }
